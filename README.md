@@ -1,7 +1,7 @@
 RubyNewbies List
 ===========
 
-I need you github username to add you to this organization and/or exercism.
+I need you github username to add your to this organization and/or exercism.
 
 | blog   | G+     | twitter| personal-site |github|
 |--------|--------|:------:|-------|----|
